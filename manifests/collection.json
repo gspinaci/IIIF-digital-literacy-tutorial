@@ -1,0 +1,13 @@
+{
+  "id" : "https://gspinaci.github.io/IIIF-digital-literacy-tutorial/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in gspinaci/IIIF-digital-literacy-tutorial project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://gspinaci.github.io/IIIF-digital-literacy-tutorial/manifests/manifest.json",
+    "label" : "IIIF tutorial label"
+  } ]
+}
