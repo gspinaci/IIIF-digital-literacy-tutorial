@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://gspinaci.github.io/IIIF-digital-literacy-tutorial/manifests/manifest.json",
     "label" : "IIIF tutorial label"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://gspinaci.github.io/IIIF-digital-literacy-tutorial/manifests/manifest2.json",
+    "label" : "IIIF tutorial label"
   } ]
 }
