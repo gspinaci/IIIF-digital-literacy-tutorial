@@ -1,0 +1,67 @@
+{
+  "id" : "https://gspinaci.github.io/IIIF-digital-literacy-tutorial/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in gspinaci/IIIF-digital-literacy-tutorial project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 2401,
+    "id" : "https://gspinaci.github.io/IIIF-digital-literacy-tutorial/images/firenze/canvas/",
+    "label" : {
+      "none" : [ "firenze" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://gspinaci.github.io/IIIF-digital-literacy-tutorial/images/firenze/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://gspinaci.github.io/IIIF-digital-literacy-tutorial/images/firenze/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 76,
+              "height" : 71
+            }, {
+              "width" : 151,
+              "height" : 142
+            }, {
+              "width" : 301,
+              "height" : 283
+            }, {
+              "width" : 601,
+              "height" : 566
+            }, {
+              "width" : 1201,
+              "height" : 1132
+            }, {
+              "width" : 2401,
+              "height" : 2263
+            } ],
+            "profile" : "level0",
+            "width" : 2401,
+            "id" : "https://gspinaci.github.io/IIIF-digital-literacy-tutorial/images/firenze",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 2263
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2401,
+          "id" : "https://gspinaci.github.io/IIIF-digital-literacy-tutorial/images/firenze/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 2263
+        },
+        "target" : "https://gspinaci.github.io/IIIF-digital-literacy-tutorial/images/firenze/canvas/"
+      } ]
+    } ],
+    "height" : 2263
+  } ]
+}
